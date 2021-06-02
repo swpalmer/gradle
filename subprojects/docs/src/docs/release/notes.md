@@ -27,6 +27,8 @@ For Java, Groovy, Kotlin and Android compatibility, see the [full compatibility 
 <a name="FILL-IN-KEY-AREA"></a>
 ### FILL-IN-KEY-AREA improvements
 
+Unrelated change.
+
 <<<FILL IN CONTEXT FOR KEY AREA>>>
 Example:
 > The [configuration cache](userguide/configuration_cache.html) improves build performance by caching the result of
